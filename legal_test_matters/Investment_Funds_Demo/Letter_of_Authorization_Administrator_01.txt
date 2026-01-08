@@ -1,0 +1,485 @@
+THIRD PARTY ADMINISTRATOR
+LETTER OF AUTHORIZATION
+
+================================================================================
+
+                           AUTHORIZATION FOR FUND
+                       ADMINISTRATION SERVICES ACCESS
+
+================================================================================
+
+Date: August 22, 2023
+
+PARTIES:
+
+Account Holder/Fund:        Meridian Growth Fund I, LP
+                           (a Delaware Limited Partnership)
+
+General Partner:            Meridian GP, LLC
+
+Third Party Administrator:  Citco Fund Services (USA) Inc.
+                           350 Park Avenue, 14th Floor
+                           New York, NY 10022
+
+Custodian:                  Northern Trust Corporation
+                           50 South LaSalle Street
+                           Chicago, IL 60603
+
+--------------------------------------------------------------------------------
+
+RECITALS
+--------------------------------------------------------------------------------
+
+WHEREAS, Meridian Growth Fund I, LP (the "Fund") has engaged Citco Fund Services
+(USA) Inc. (the "Administrator") to provide fund administration services pursuant
+to that certain Fund Administration Agreement dated August 1, 2023 (the
+"Administration Agreement");
+
+WHEREAS, the Fund maintains custodial accounts with Northern Trust Corporation
+(the "Custodian") for the safekeeping of Fund assets;
+
+WHEREAS, in order for the Administrator to fulfill its duties under the
+Administration Agreement, the Administrator requires access to certain account
+information and the authority to provide instructions to the Custodian on
+behalf of the Fund;
+
+NOW, THEREFORE, the Fund and the General Partner hereby authorize and instruct
+the Custodian as follows:
+
+--------------------------------------------------------------------------------
+
+SECTION 1 - AUTHORIZATION SCOPE
+--------------------------------------------------------------------------------
+
+The Custodian is hereby authorized to:
+
+1.1 INFORMATION ACCESS
+
+    (a) Provide the Administrator with access to all account information,
+        including but not limited to:
+        - Daily position reports
+        - Transaction confirmations
+        - Cash balances and movements
+        - Securities holdings and valuations
+        - Corporate action notifications
+        - Tax lot information
+        - Cost basis reports
+        - Monthly and quarterly statements
+
+    (b) Grant the Administrator online access to the Custodian's client portal
+        (Northern Trust Passport or successor system) with view-only access to
+        account information.
+
+    (c) Respond to inquiries from the Administrator regarding account status,
+        positions, pending transactions, and related matters.
+
+1.2 INSTRUCTION AUTHORITY
+
+    Subject to the limitations set forth in Section 2, the Custodian is
+    authorized to accept and act upon the following types of instructions
+    from the Administrator:
+
+    (a) SETTLEMENT INSTRUCTIONS
+        - Delivery versus payment (DVP) and receive versus payment (RVP)
+          settlement instructions for securities transactions
+        - Free delivery and free receipt instructions for securities transfers
+        - Foreign exchange settlement instructions
+
+    (b) CASH MANAGEMENT
+        - Instructions to move cash between Fund accounts
+        - Instructions to invest idle cash balances in approved money market
+          funds or short-term instruments
+        - Instructions to fund capital calls to/from the Fund's capital
+          call account
+
+    (c) CORPORATE ACTIONS
+        - Election instructions for voluntary corporate actions (tender
+          offers, rights offerings, conversions, etc.)
+        - Proxy voting instructions (if delegated to Administrator)
+
+    (d) REPORTING
+        - Requests for account statements, reports, and confirmations
+        - Requests for tax reporting information
+        - Requests for audit confirmations
+
+--------------------------------------------------------------------------------
+
+SECTION 2 - LIMITATIONS ON AUTHORITY
+--------------------------------------------------------------------------------
+
+The Administrator's authority under this Letter of Authorization is subject to
+the following limitations:
+
+2.1 PROHIBITED ACTIONS
+
+    The Administrator is NOT authorized to:
+
+    (a) Initiate wire transfers to accounts not pre-approved in the Fund's
+        standing wire instructions on file with the Custodian;
+
+    (b) Add, modify, or delete standing wire instructions;
+
+    (c) Add, modify, or delete authorized signatories;
+
+    (d) Close or open accounts;
+
+    (e) Pledge, hypothecate, or encumber Fund assets;
+
+    (f) Execute trades or investment decisions (which are the responsibility
+        of the Investment Manager);
+
+    (g) Take any action that would result in an overdraft of Fund accounts
+        unless previously approved in writing by the General Partner.
+
+2.2 MONETARY LIMITS
+
+    The Administrator's authority to instruct cash movements is limited as
+    follows:
+
+    (a) Intra-Fund Transfers (between Fund accounts):
+        - Daily limit: $25,000,000
+        - Single transaction limit: $10,000,000
+
+    (b) External Transfers (to standing instruction accounts only):
+        - Daily limit: $15,000,000
+        - Single transaction limit: $5,000,000
+
+    Transfers exceeding these limits require written authorization from the
+    General Partner.
+
+2.3 DUAL AUTHORIZATION REQUIREMENTS
+
+    The following actions require authorization from both the Administrator
+    and the General Partner (or its designee):
+
+    (a) Settlement of securities transactions exceeding $10,000,000;
+    (b) Cash transfers exceeding the limits in Section 2.2;
+    (c) Corporate action elections with material financial impact;
+    (d) Any instruction that deviates from established procedures.
+
+--------------------------------------------------------------------------------
+
+SECTION 3 - AUTHORIZED ADMINISTRATOR PERSONNEL
+--------------------------------------------------------------------------------
+
+The following individuals at the Administrator are authorized to provide
+instructions to the Custodian on behalf of the Fund:
+
+TIER 1 - SENIOR AUTHORIZATION (Full Authority within Limits)
+--------------------------------------------------------------------------------
+Name:              David R. Thompson
+Title:             Client Services Director
+Phone:             (212) 555-7834
+Email:             d.thompson@citco.com
+Specimen Signature: _________________________________
+
+Name:              Linda M. Vasquez
+Title:             Senior Vice President, Client Services
+Phone:             (212) 555-7841
+Email:             l.vasquez@citco.com
+Specimen Signature: _________________________________
+
+TIER 2 - STANDARD AUTHORIZATION (Limited to transactions under $5,000,000)
+--------------------------------------------------------------------------------
+Name:              Robert K. Anderson
+Title:             Vice President, Fund Accounting
+Phone:             (212) 555-7856
+Email:             r.anderson@citco.com
+Specimen Signature: _________________________________
+
+Name:              Michelle Y. Park
+Title:             Assistant Vice President, Operations
+Phone:             (212) 555-7863
+Email:             m.park@citco.com
+Specimen Signature: _________________________________
+
+Name:              Christopher J. Williams
+Title:             Manager, Investor Services
+Phone:             (212) 555-7871
+Email:             c.williams@citco.com
+Specimen Signature: _________________________________
+
+--------------------------------------------------------------------------------
+
+SECTION 4 - INSTRUCTION METHODS
+--------------------------------------------------------------------------------
+
+The Custodian is authorized to accept instructions from the Administrator via:
+
+[X] Secure Electronic Platform
+    System: Northern Trust Passport
+    Administrator User IDs to be established separately
+
+[X] Authenticated SWIFT Messages
+    Administrator BIC: CITCUS33
+
+[X] Written Instructions
+    Facsimile: (212) 555-7899
+    Email: meridianfund.instructions@citco.com
+    (for amounts under $1,000,000 only; original required for larger amounts)
+
+[X] Telephone Instructions
+    Subject to callback verification to the numbers listed in Section 3
+    (for time-sensitive matters and amounts under $500,000 only)
+
+--------------------------------------------------------------------------------
+
+SECTION 5 - VERIFICATION PROCEDURES
+--------------------------------------------------------------------------------
+
+5.1 CALLBACK VERIFICATION
+
+    The Custodian shall conduct callback verification for:
+    - All telephone instructions
+    - Written instructions for amounts exceeding $1,000,000
+    - Any instruction that appears unusual or inconsistent with normal patterns
+
+    Callback shall be made to the phone numbers listed in Section 3 for the
+    relevant authorized person.
+
+5.2 SECONDARY VERIFICATION
+
+    For instructions exceeding $5,000,000, the Custodian shall obtain secondary
+    verification from the General Partner using the following contacts:
+
+    Primary:   Katherine L. Wong, CFO
+               Phone: (212) 555-4891
+
+    Secondary: Michael S. Brennan, COO
+               Phone: (212) 555-4892
+
+5.3 DISCREPANCY RESOLUTION
+
+    In the event of any discrepancy between instructions received from the
+    Administrator and the General Partner, the Custodian shall:
+    (a) Immediately notify both parties;
+    (b) Take no action until the discrepancy is resolved; and
+    (c) Follow the instructions of the General Partner in the event of
+        irreconcilable conflict.
+
+--------------------------------------------------------------------------------
+
+SECTION 6 - REPORTING AND NOTIFICATIONS
+--------------------------------------------------------------------------------
+
+6.1 ADMINISTRATOR REPORTING
+
+    The Custodian shall provide the Administrator with:
+
+    (a) Daily Reports:
+        - Opening and closing cash balances
+        - Pending settlements
+        - Failed trades
+        - Transaction confirmations
+
+    (b) Weekly Reports:
+        - Full portfolio holdings
+        - Cash projections
+        - Corporate action calendar
+
+    (c) Monthly Reports:
+        - Complete account statements
+        - Performance attribution data
+        - Reconciliation support
+
+    (d) As-Requested:
+        - Audit confirmations
+        - Tax reporting information
+        - Ad hoc reports
+
+6.2 NOTIFICATIONS
+
+    The Custodian shall notify the Administrator of:
+    - Corporate actions (within 24 hours of receipt)
+    - Failed settlements (same day)
+    - Overdrafts or insufficient funds (immediately)
+    - System outages affecting account access
+    - Changes to Custodian procedures affecting the Fund
+
+--------------------------------------------------------------------------------
+
+SECTION 7 - DATA SECURITY AND CONFIDENTIALITY
+--------------------------------------------------------------------------------
+
+7.1 CONFIDENTIALITY
+
+    The Administrator acknowledges that all Fund information received from
+    the Custodian is confidential and agrees to:
+    - Maintain such information in strict confidence;
+    - Use such information solely for Fund administration purposes;
+    - Not disclose such information to third parties except as required
+      by law or authorized by the Fund.
+
+7.2 DATA SECURITY
+
+    The Administrator agrees to implement appropriate data security measures,
+    including but not limited to:
+    - Encryption of data in transit and at rest;
+    - Access controls limiting information to authorized personnel;
+    - Regular security assessments and audits;
+    - Prompt notification of any security incidents.
+
+--------------------------------------------------------------------------------
+
+SECTION 8 - INDEMNIFICATION
+--------------------------------------------------------------------------------
+
+8.1 FUND INDEMNIFICATION
+
+    The Fund and the General Partner jointly and severally agree to indemnify
+    and hold harmless the Custodian from and against any and all claims,
+    losses, liabilities, damages, and expenses arising out of or relating to:
+
+    (a) The Custodian's good faith reliance upon instructions from the
+        Administrator that the Custodian reasonably believes to be genuine
+        and within the scope of the Administrator's authority hereunder;
+
+    (b) Any action taken or omitted by the Custodian in accordance with
+        this Letter of Authorization, except to the extent resulting from
+        the Custodian's gross negligence, willful misconduct, or fraud.
+
+8.2 ADMINISTRATOR INDEMNIFICATION
+
+    The Administrator agrees to indemnify and hold harmless the Fund and the
+    Custodian from and against any claims, losses, liabilities, damages, and
+    expenses arising out of:
+
+    (a) Instructions provided by the Administrator that exceed the scope of
+        authority granted herein;
+
+    (b) Fraud, gross negligence, or willful misconduct by the Administrator
+        or its personnel;
+
+    (c) Breach of the confidentiality or data security provisions hereof.
+
+--------------------------------------------------------------------------------
+
+SECTION 9 - TERM AND TERMINATION
+--------------------------------------------------------------------------------
+
+9.1 TERM
+
+    This Letter of Authorization shall be effective upon execution and
+    acceptance by all parties and shall remain in effect until terminated
+    in accordance with Section 9.2.
+
+9.2 TERMINATION
+
+    This Letter of Authorization may be terminated:
+
+    (a) By the Fund or General Partner, upon thirty (30) days' written
+        notice to the Administrator and the Custodian;
+
+    (b) By the Administrator, upon sixty (60) days' written notice to
+        the Fund and the Custodian;
+
+    (c) Automatically upon termination of the Administration Agreement;
+
+    (d) Immediately upon written notice by any party in the event of a
+        material breach by another party.
+
+9.3 EFFECT OF TERMINATION
+
+    Upon termination, the Administrator's authority to provide instructions
+    to the Custodian shall cease, and the Custodian shall revoke the
+    Administrator's access to account information and systems.
+
+--------------------------------------------------------------------------------
+
+SECTION 10 - MISCELLANEOUS
+--------------------------------------------------------------------------------
+
+10.1 AMENDMENTS
+
+     This Letter of Authorization may be amended only by written agreement
+     signed by all parties.
+
+10.2 GOVERNING LAW
+
+     This Letter of Authorization shall be governed by and construed in
+     accordance with the laws of the State of New York.
+
+10.3 ENTIRE AGREEMENT
+
+     This Letter of Authorization, together with the Administration Agreement
+     and the Fund's Custody Agreement with the Custodian, constitutes the
+     entire agreement among the parties with respect to the subject matter
+     hereof.
+
+10.4 COUNTERPARTS
+
+     This Letter of Authorization may be executed in counterparts, each of
+     which shall be deemed an original.
+
+--------------------------------------------------------------------------------
+
+SIGNATURES
+--------------------------------------------------------------------------------
+
+IN WITNESS WHEREOF, the parties have executed this Letter of Authorization
+as of the date first written above.
+
+FUND:
+
+MERIDIAN GROWTH FUND I, LP
+By: Meridian GP, LLC, its General Partner
+
+By: _________________________________
+    James P. Harrison
+    Managing Partner
+
+Date: August 22, 2023
+
+
+By: _________________________________
+    Katherine L. Wong
+    Chief Financial Officer
+
+Date: August 22, 2023
+
+
+--------------------------------------------------------------------------------
+
+ADMINISTRATOR:
+
+CITCO FUND SERVICES (USA) INC.
+
+By: _________________________________
+    David R. Thompson
+    Client Services Director
+
+Date: August 22, 2023
+
+
+By: _________________________________
+    Linda M. Vasquez
+    Senior Vice President
+
+Date: August 22, 2023
+
+
+--------------------------------------------------------------------------------
+
+CUSTODIAN ACKNOWLEDGMENT:
+
+NORTHERN TRUST CORPORATION
+
+The foregoing Letter of Authorization is hereby acknowledged and accepted.
+Custodian agrees to provide access and accept instructions from the Administrator
+in accordance with the terms set forth herein.
+
+By: _________________________________
+    Name:
+    Title:
+
+Date: _______________________________
+
+
+--------------------------------------------------------------------------------
+
+Document ID: TPA-LOA-MGFI-2023-0822-001
+Version: 1.0
+Related Documents:
+  - Fund Administration Agreement (August 1, 2023)
+  - Custody Agreement (July 15, 2023)
+  - Wire Transfer Authorization (WTA-MGFI-2023-1108-001)

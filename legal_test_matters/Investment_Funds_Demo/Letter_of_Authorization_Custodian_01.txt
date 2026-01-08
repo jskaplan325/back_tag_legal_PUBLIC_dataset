@@ -1,0 +1,264 @@
+LETTER OF AUTHORIZATION
+
+CUSTODIAN SERVICES AUTHORIZATION
+
+This Letter of Authorization ("LOA") is made and entered into as of September 15, 2023, by and among:
+
+ACCOUNT HOLDER INFORMATION:
+
+Account Holder Name: Meridian Capital Partners, LP
+Account Number: MCPL-2023-0847
+Tax Identification Number: 84-2947561
+Principal Office Address:
+    1200 Avenue of the Americas, 32nd Floor
+    New York, NY 10036
+    United States
+
+CUSTODIAN INFORMATION:
+
+Custodian Name: Northern Trust Corporation
+Custodian Address:
+    50 South LaSalle Street
+    Chicago, IL 60603
+    United States
+
+FUND INFORMATION:
+
+Fund Name: Meridian Growth Fund I, LP (the "Fund")
+Fund Administrator: Citco Fund Services (USA) Inc.
+Investment Manager: Meridian Capital Management, LLC
+
+--------------------------------------------------------------------------------
+
+AUTHORIZATION GRANTED
+
+The undersigned Account Holder hereby authorizes Northern Trust Corporation (the "Custodian") to act upon instructions received from the following authorized persons and/or entities in connection with the Account Holder's investment in the Fund:
+
+AUTHORIZED PARTIES:
+
+1. Meridian Capital Management, LLC (the "Investment Manager")
+   Primary Contact: Sarah J. Mitchell, Chief Investment Officer
+   Email: s.mitchell@meridiancapital.com
+   Phone: (212) 555-4892
+
+2. Citco Fund Services (USA) Inc. (the "Administrator")
+   Primary Contact: David R. Thompson, Client Services Director
+   Email: d.thompson@citco.com
+   Phone: (212) 555-7834
+
+3. Fund Authorized Signatories:
+   - James P. Harrison, Managing Partner
+   - Katherine L. Wong, Chief Financial Officer
+   - Michael S. Brennan, Chief Operating Officer
+
+--------------------------------------------------------------------------------
+
+SCOPE OF AUTHORIZATION
+
+The Account Holder hereby authorizes the Custodian to:
+
+1. SECURITIES TRANSACTIONS
+   (a) Accept and execute instructions for the purchase, sale, exchange, conversion,
+       or transfer of securities held in or to be deposited into the account;
+   (b) Deliver securities against payment or free of payment as instructed;
+   (c) Receive securities against payment or free of payment as instructed;
+   (d) Execute foreign exchange transactions as necessary to settle securities
+       transactions.
+
+2. CASH MOVEMENTS
+   (a) Wire funds to designated accounts as instructed in accordance with the
+       Standing Wire Instructions attached hereto as Exhibit A;
+   (b) Process capital calls from the Fund;
+   (c) Process distributions to limited partners as instructed by the Administrator;
+   (d) Pay fees, expenses, and other obligations of the Fund as directed.
+
+3. ACCOUNT INFORMATION
+   (a) Provide account statements, transaction confirmations, and other account
+       information to the authorized parties;
+   (b) Respond to inquiries from authorized parties regarding account status,
+       positions, and transactions;
+   (c) Provide tax reporting information as required.
+
+4. CORPORATE ACTIONS
+   (a) Process corporate actions (dividends, rights offerings, tender offers,
+       mergers, etc.) in accordance with instructions from authorized parties;
+   (b) In the absence of instructions, take no action or follow standing
+       instructions previously provided in writing.
+
+--------------------------------------------------------------------------------
+
+INSTRUCTION METHODS
+
+The Custodian is authorized to accept instructions via the following methods:
+
+[ X ] Secure Electronic Platform (Northern Trust Passport)
+[ X ] Authenticated SWIFT Messages
+[ X ] Written Instructions (original signature required for amounts exceeding $1,000,000)
+[ X ] Telephone Instructions (subject to callback verification procedures)
+[   ] Facsimile (with original to follow)
+
+For telephone instructions, callback verification shall be made to:
+
+Primary Callback Number: (212) 555-4892
+Secondary Callback Number: (212) 555-4893
+
+--------------------------------------------------------------------------------
+
+INDEMNIFICATION
+
+The Account Holder agrees to indemnify and hold harmless the Custodian, its officers,
+directors, employees, and agents from and against any and all losses, liabilities,
+damages, claims, and expenses (including reasonable attorneys' fees) arising out of
+or in connection with:
+
+(a) The Custodian's good faith reliance upon and compliance with instructions
+    received from authorized parties that the Custodian reasonably believes to
+    be genuine;
+
+(b) Any actions taken or omitted to be taken by the Custodian in accordance with
+    this Letter of Authorization, except to the extent such losses result from
+    the Custodian's gross negligence, willful misconduct, or fraud;
+
+(c) Any unauthorized use of the instruction methods specified herein, provided
+    the Custodian has followed its standard security and verification procedures.
+
+--------------------------------------------------------------------------------
+
+LIMITATION OF LIABILITY
+
+The Custodian's liability under this Letter of Authorization shall be limited to
+direct damages and shall not include any consequential, incidental, special,
+punitive, or indirect damages, regardless of whether such damages were foreseeable
+or whether the Custodian was advised of the possibility of such damages.
+
+--------------------------------------------------------------------------------
+
+TERM AND TERMINATION
+
+This Letter of Authorization shall remain in full force and effect until:
+
+(a) Revoked in writing by the Account Holder with at least thirty (30) days'
+    prior written notice to the Custodian;
+
+(b) Terminated by the Custodian with at least sixty (60) days' prior written
+    notice to the Account Holder;
+
+(c) The Account Holder's account with the Custodian is closed; or
+
+(d) Superseded by a subsequent Letter of Authorization executed by the Account Holder.
+
+Any revocation or termination shall not affect any transactions initiated prior to
+the effective date of such revocation or termination.
+
+--------------------------------------------------------------------------------
+
+REPRESENTATIONS AND WARRANTIES
+
+The Account Holder represents and warrants that:
+
+1. The Account Holder has full power and authority to execute this Letter of
+   Authorization and to authorize the transactions contemplated herein;
+
+2. This Letter of Authorization has been duly authorized, executed, and delivered
+   by the Account Holder;
+
+3. The execution and performance of this Letter of Authorization does not violate
+   any law, regulation, or agreement to which the Account Holder is subject;
+
+4. The information provided herein is true, accurate, and complete as of the date
+   of execution;
+
+5. The Account Holder shall promptly notify the Custodian in writing of any changes
+   to the authorized parties or other information contained herein.
+
+--------------------------------------------------------------------------------
+
+GOVERNING LAW
+
+This Letter of Authorization shall be governed by and construed in accordance with
+the laws of the State of New York, without regard to its conflicts of law principles.
+
+--------------------------------------------------------------------------------
+
+COUNTERPARTS
+
+This Letter of Authorization may be executed in counterparts, each of which shall
+be deemed an original and all of which together shall constitute one and the same
+instrument.
+
+--------------------------------------------------------------------------------
+
+IN WITNESS WHEREOF, the undersigned has executed this Letter of Authorization as
+of the date first written above.
+
+ACCOUNT HOLDER:
+
+MERIDIAN CAPITAL PARTNERS, LP
+
+By: Meridian GP, LLC, its General Partner
+
+
+By: _________________________________
+    James P. Harrison
+    Managing Partner
+
+Date: September 15, 2023
+
+
+ACKNOWLEDGED AND ACCEPTED:
+
+NORTHERN TRUST CORPORATION
+
+
+By: _________________________________
+    Name: Robert M. Callahan
+    Title: Vice President, Custody Services
+
+Date: _______________________________
+
+
+--------------------------------------------------------------------------------
+
+EXHIBIT A - STANDING WIRE INSTRUCTIONS
+
+PRIMARY OPERATING ACCOUNT:
+Bank Name: JPMorgan Chase Bank, N.A.
+ABA Routing Number: 021000021
+Account Name: Meridian Capital Partners, LP - Operating
+Account Number: 847291035
+Reference: [Transaction ID]
+
+SUBSCRIPTION PROCEEDS ACCOUNT:
+Bank Name: JPMorgan Chase Bank, N.A.
+ABA Routing Number: 021000021
+Account Name: Meridian Growth Fund I, LP - Subscriptions
+Account Number: 847291042
+Reference: [Investor Name / Subscription Date]
+
+DISTRIBUTION ACCOUNT:
+Bank Name: JPMorgan Chase Bank, N.A.
+ABA Routing Number: 021000021
+Account Name: Meridian Growth Fund I, LP - Distributions
+Account Number: 847291059
+Reference: [Distribution Date / LP Name]
+
+--------------------------------------------------------------------------------
+
+EXHIBIT B - SPECIMEN SIGNATURES
+
+The following are specimen signatures of individuals authorized to provide
+instructions on behalf of the Account Holder:
+
+1. James P. Harrison, Managing Partner
+   Signature: _________________________________
+
+2. Katherine L. Wong, Chief Financial Officer
+   Signature: _________________________________
+
+3. Michael S. Brennan, Chief Operating Officer
+   Signature: _________________________________
+
+--------------------------------------------------------------------------------
+
+Document ID: LOA-MCPL-2023-0915-001
+Version: 1.0

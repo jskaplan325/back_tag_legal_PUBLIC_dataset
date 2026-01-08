@@ -1,0 +1,388 @@
+WIRE TRANSFER AUTHORIZATION
+STANDING INSTRUCTIONS
+
+================================================================================
+                        LETTER OF AUTHORIZATION
+                   FOR WIRE TRANSFERS AND FUND MOVEMENTS
+================================================================================
+
+Date: November 8, 2023
+
+To: Northern Trust Corporation
+    Attention: Wire Transfer Department
+    50 South LaSalle Street
+    Chicago, IL 60603
+
+Re: Standing Wire Instructions and Transfer Authorization
+    Account Name: Meridian Growth Fund I, LP
+    Account Number: MGFI-2023-001847
+
+--------------------------------------------------------------------------------
+
+SECTION 1 - ACCOUNT HOLDER INFORMATION
+--------------------------------------------------------------------------------
+
+Fund Name:                  Meridian Growth Fund I, LP
+                           (a Delaware Limited Partnership)
+
+General Partner:            Meridian GP, LLC
+
+Investment Manager:         Meridian Capital Management, LLC
+
+Administrator:              Citco Fund Services (USA) Inc.
+
+Fund Tax ID:               84-3928471
+
+Principal Office:          1200 Avenue of the Americas, 32nd Floor
+                           New York, NY 10036
+
+--------------------------------------------------------------------------------
+
+SECTION 2 - AUTHORIZATION
+--------------------------------------------------------------------------------
+
+The undersigned, being duly authorized representatives of Meridian Growth Fund I,
+LP (the "Fund") and Meridian GP, LLC, as General Partner of the Fund, hereby
+authorize and instruct Northern Trust Corporation (the "Custodian") to execute
+wire transfers and fund movements as described herein, in accordance with the
+standing instructions set forth below and/or specific instructions provided by
+authorized persons.
+
+This Letter of Authorization supersedes and replaces any and all prior wire
+transfer authorizations on file with the Custodian relating to the Fund.
+
+--------------------------------------------------------------------------------
+
+SECTION 3 - STANDING WIRE INSTRUCTIONS
+--------------------------------------------------------------------------------
+
+The Custodian is hereby authorized to effect wire transfers to the following
+pre-approved accounts without requiring additional written authorization for
+each individual transfer, subject to the limits and conditions specified:
+
+A. CAPITAL CALL FUNDING ACCOUNT
+--------------------------------------------------------------------------------
+Purpose:           Receipt of capital contributions from Limited Partners
+Bank Name:         JPMorgan Chase Bank, N.A.
+Bank Address:      383 Madison Avenue, New York, NY 10179
+ABA Routing:       021000021
+SWIFT Code:        CHASUS33
+Account Name:      Meridian Growth Fund I, LP - Capital Contributions
+Account Number:    749283651
+Reference:         Capital Call [Date] / [Investor Name]
+Daily Limit:       $50,000,000
+Monthly Limit:     $150,000,000
+
+B. OPERATING ACCOUNT
+--------------------------------------------------------------------------------
+Purpose:           Payment of fund expenses and operational costs
+Bank Name:         JPMorgan Chase Bank, N.A.
+Bank Address:      383 Madison Avenue, New York, NY 10179
+ABA Routing:       021000021
+SWIFT Code:        CHASUS33
+Account Name:      Meridian Growth Fund I, LP - Operating
+Account Number:    749283668
+Reference:         [Expense Type] / [Vendor Name] / [Invoice #]
+Daily Limit:       $5,000,000
+Monthly Limit:     $15,000,000
+
+C. DISTRIBUTION ACCOUNT
+--------------------------------------------------------------------------------
+Purpose:           Payment of distributions to Limited Partners
+Bank Name:         JPMorgan Chase Bank, N.A.
+Bank Address:      383 Madison Avenue, New York, NY 10179
+ABA Routing:       021000021
+SWIFT Code:        CHASUS33
+Account Name:      Meridian Growth Fund I, LP - Distributions
+Account Number:    749283675
+Reference:         Distribution [Date] / [LP Name]
+Daily Limit:       $100,000,000
+Monthly Limit:     No Limit (subject to available funds)
+
+D. INVESTMENT MANAGER FEE ACCOUNT
+--------------------------------------------------------------------------------
+Purpose:           Payment of management fees and performance allocations
+Bank Name:         JPMorgan Chase Bank, N.A.
+Bank Address:      383 Madison Avenue, New York, NY 10179
+ABA Routing:       021000021
+SWIFT Code:        CHASUS33
+Account Name:      Meridian Capital Management, LLC
+Account Number:    749283682
+Reference:         [Fee Type] / [Period]
+Daily Limit:       $10,000,000
+Monthly Limit:     $25,000,000
+
+E. PRIME BROKER ACCOUNT
+--------------------------------------------------------------------------------
+Purpose:           Transfer of funds to/from prime brokerage accounts
+Broker Name:       Goldman Sachs & Co. LLC
+Bank Name:         Goldman Sachs Bank USA
+ABA Routing:       021001088
+SWIFT Code:        GSCHUS33
+Account Name:      Meridian Growth Fund I, LP
+Account Number:    038-47291
+Reference:         [Trade Date] / [Security/Purpose]
+Daily Limit:       $75,000,000
+Monthly Limit:     $300,000,000
+
+F. ESCROW ACCOUNT (ACQUISITIONS)
+--------------------------------------------------------------------------------
+Purpose:           Funding of acquisition escrow deposits
+Bank Name:         Citibank, N.A.
+Bank Address:      388 Greenwich Street, New York, NY 10013
+ABA Routing:       021000089
+SWIFT Code:        CITIUS33
+Account Name:      Meridian Growth Fund I, LP - Acquisition Escrow
+Account Number:    4927381056
+Reference:         [Target Company] / [Transaction ID]
+Daily Limit:       $100,000,000
+Monthly Limit:     No Limit (subject to available funds)
+
+--------------------------------------------------------------------------------
+
+SECTION 4 - NON-STANDING WIRE INSTRUCTIONS
+--------------------------------------------------------------------------------
+
+For wire transfers to accounts NOT listed in Section 3, the following procedures
+shall apply:
+
+A. WRITTEN AUTHORIZATION REQUIRED
+   All wire transfers to non-standing accounts require prior written authorization
+   signed by two (2) authorized signatories.
+
+B. MINIMUM NOTICE PERIOD
+   Written authorization must be received by the Custodian at least two (2)
+   business days prior to the requested transfer date for amounts up to
+   $10,000,000, and at least three (3) business days for amounts exceeding
+   $10,000,000.
+
+C. VERIFICATION PROCEDURES
+   For transfers exceeding $1,000,000, the Custodian shall conduct callback
+   verification to the designated callback numbers listed in Section 6.
+
+D. REQUIRED INFORMATION
+   Authorization for non-standing transfers must include:
+   - Beneficiary bank name and address
+   - ABA routing number and/or SWIFT code
+   - Beneficiary account name and number
+   - Transfer amount
+   - Value date
+   - Purpose/reference information
+   - Signatures of two authorized signatories
+
+--------------------------------------------------------------------------------
+
+SECTION 5 - AUTHORIZED SIGNATORIES
+--------------------------------------------------------------------------------
+
+The following individuals are authorized to instruct wire transfers on behalf
+of the Fund. All non-standing wire transfers require the signature of at least
+two (2) authorized signatories:
+
+CATEGORY A - FULL AUTHORIZATION (any amount)
+--------------------------------------------------------------------------------
+1. Name:           James P. Harrison
+   Title:          Managing Partner, Meridian GP, LLC
+   Specimen Sig:   _________________________________
+
+2. Name:           Katherine L. Wong
+   Title:          Chief Financial Officer, Meridian GP, LLC
+   Specimen Sig:   _________________________________
+
+3. Name:           Michael S. Brennan
+   Title:          Chief Operating Officer, Meridian GP, LLC
+   Specimen Sig:   _________________________________
+
+CATEGORY B - LIMITED AUTHORIZATION (up to $5,000,000)
+--------------------------------------------------------------------------------
+4. Name:           Jennifer R. Chen
+   Title:          Controller, Meridian GP, LLC
+   Specimen Sig:   _________________________________
+
+5. Name:           David M. Sullivan
+   Title:          Treasury Manager, Meridian GP, LLC
+   Specimen Sig:   _________________________________
+
+SIGNATURE REQUIREMENTS:
+- Standing instructions (within limits): One Category A or Category B signature
+- Non-standing transfers up to $5M: One Category A and one Category A or B signature
+- Non-standing transfers over $5M: Two Category A signatures
+
+--------------------------------------------------------------------------------
+
+SECTION 6 - CALLBACK VERIFICATION PROCEDURES
+--------------------------------------------------------------------------------
+
+For all non-standing wire transfers and standing wire transfers exceeding
+$10,000,000, the Custodian shall perform callback verification using the
+following designated numbers:
+
+PRIMARY CALLBACK:
+Name:             Katherine L. Wong
+Phone:            (212) 555-4891
+Mobile:           (917) 555-3847
+
+SECONDARY CALLBACK:
+Name:             Michael S. Brennan
+Phone:            (212) 555-4892
+Mobile:           (917) 555-3921
+
+ADMINISTRATOR VERIFICATION (if requested):
+Name:             David R. Thompson, Citco Fund Services
+Phone:            (212) 555-7834
+
+--------------------------------------------------------------------------------
+
+SECTION 7 - INSTRUCTION METHODS
+--------------------------------------------------------------------------------
+
+The Custodian is authorized to accept wire transfer instructions via the
+following methods:
+
+[X] Northern Trust Passport (secure electronic platform)
+[X] SWIFT MT103/MT202 messages
+[X] Written instruction with original signatures (fax acceptable for
+    amounts under $1,000,000 with original to follow)
+[X] Telephone instruction (callback verification required for all amounts)
+
+EMAIL INSTRUCTIONS:
+Email instructions for informational purposes only. No wire transfer shall be
+initiated based solely on email instruction. Email may be used to provide
+advance notice of pending instructions.
+
+Authorized Email Addresses:
+- k.wong@meridiancapital.com
+- m.brennan@meridiancapital.com
+- j.chen@meridiancapital.com
+- d.sullivan@meridiancapital.com
+
+--------------------------------------------------------------------------------
+
+SECTION 8 - SPECIAL INSTRUCTIONS
+--------------------------------------------------------------------------------
+
+A. RECURRING TRANSFERS
+   The following recurring transfers are authorized without individual instruction:
+
+   1. Monthly Management Fee Payment
+      Amount: Calculated per Investment Management Agreement
+      Frequency: Monthly, within 5 business days of month-end
+      Destination: Investment Manager Fee Account (Section 3.D)
+
+   2. Quarterly Administrator Fee Payment
+      Amount: Per Administration Agreement
+      Frequency: Quarterly, within 10 business days of quarter-end
+      Destination: Per Administrator Invoice Instructions
+
+B. FOREIGN CURRENCY TRANSFERS
+   The Custodian is authorized to effect foreign currency wire transfers and
+   to execute foreign exchange transactions at prevailing market rates to
+   facilitate such transfers.
+
+C. SAME-DAY VALUE
+   For transfers initiated before 12:00 PM ET on a business day, the Custodian
+   shall use commercially reasonable efforts to provide same-day value, subject
+   to cut-off times of receiving banks.
+
+--------------------------------------------------------------------------------
+
+SECTION 9 - INDEMNIFICATION
+--------------------------------------------------------------------------------
+
+The Fund and the General Partner jointly and severally agree to indemnify and
+hold harmless the Custodian, its affiliates, officers, directors, employees,
+and agents from and against any and all claims, losses, liabilities, damages,
+and expenses (including reasonable attorneys' fees) arising out of or relating
+to:
+
+(a) The Custodian's good faith reliance upon and compliance with instructions
+    that the Custodian reasonably believes to be genuine and authorized;
+
+(b) Any delay in executing wire transfers due to verification procedures
+    implemented in accordance with this authorization;
+
+(c) Any action taken or omitted in accordance with this Letter of Authorization,
+    except to the extent resulting from the Custodian's gross negligence,
+    willful misconduct, or fraud;
+
+(d) Any unauthorized access to or use of the instruction methods specified herein,
+    provided the Custodian has followed its standard security procedures.
+
+--------------------------------------------------------------------------------
+
+SECTION 10 - TERM AND AMENDMENT
+--------------------------------------------------------------------------------
+
+A. EFFECTIVE DATE
+   This Letter of Authorization shall be effective upon receipt and acceptance
+   by the Custodian.
+
+B. TERM
+   This authorization shall remain in effect until revoked or amended in writing
+   by authorized signatories.
+
+C. AMENDMENT
+   This authorization may be amended by written notice signed by two (2)
+   Category A authorized signatories. Amendments to standing wire instructions
+   or authorized signatories shall be effective upon receipt and processing
+   by the Custodian, typically within two (2) business days.
+
+D. REVOCATION
+   This authorization may be revoked in whole or in part by written notice
+   signed by two (2) Category A authorized signatories, effective upon
+   receipt by the Custodian.
+
+--------------------------------------------------------------------------------
+
+SECTION 11 - GOVERNING LAW
+--------------------------------------------------------------------------------
+
+This Letter of Authorization shall be governed by and construed in accordance
+with the laws of the State of Illinois.
+
+--------------------------------------------------------------------------------
+
+SECTION 12 - EXECUTION
+--------------------------------------------------------------------------------
+
+IN WITNESS WHEREOF, the undersigned have executed this Letter of Authorization
+as of the date first written above.
+
+MERIDIAN GROWTH FUND I, LP
+By: Meridian GP, LLC, its General Partner
+
+By: _________________________________
+    James P. Harrison, Managing Partner
+
+Date: November 8, 2023
+
+
+By: _________________________________
+    Katherine L. Wong, Chief Financial Officer
+
+Date: November 8, 2023
+
+
+--------------------------------------------------------------------------------
+
+CUSTODIAN ACKNOWLEDGMENT
+
+NORTHERN TRUST CORPORATION
+
+The foregoing Letter of Authorization is hereby acknowledged and accepted.
+
+By: _________________________________
+    Name:
+    Title:
+
+Date: _______________________________
+
+Wire Instructions Entered By: _______________________________
+Verified By: _______________________________
+Effective Date: _______________________________
+
+--------------------------------------------------------------------------------
+
+Document ID: WTA-MGFI-2023-1108-001
+Version: 1.0
+Supersedes: WTA-MGFI-2022-0915-001 (dated September 15, 2022)
